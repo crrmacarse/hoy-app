@@ -1,0 +1,1 @@
+<h1>Getting to know svelte</h1>
